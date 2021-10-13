@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: japhetism/buks-app-prod
+    image: japhetism/buks-app-prod
+    build:
+      context: .
+      target: production
