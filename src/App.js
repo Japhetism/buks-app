@@ -9,6 +9,7 @@ function App() {
         <p>
          Welcome to docker build and publish with Jenkins
         </p>
+        <p> Deployment done by Bukumi</p>
         <a
           className="App-link"
           href="https://reactjs.org"
